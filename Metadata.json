@@ -1,0 +1,20 @@
+{
+    "Author": "AvihaiH",
+    "ContentSize": 917,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-waf-ssl-certificate-script/master/RenewSSLCertificate.ps1",
+    "DownloadCount": 951,
+    "Id": "Azure-WAF-SSL-Certificate-4bec36b9",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 311,
+    "RaterCount": 4,
+    "Rating": 5.0,
+    "ReleaseDate": "2018-3-14T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Renewing SSL Certificate for Azure Application Gateway (Application Gateway and WAF).ScenarioYou want to renew SSL Certificate without removing the listener.",
+    "Title": "Azure WAF SSL Certificate Script",
+    "UpdatedDate": "2018-3-14T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-waf-ssl-certificate-script",
+    "UserTags": "Microsoft Azure, Powershell, Certificate"
+}
